@@ -35,6 +35,6 @@ This package solves a key challenge: extending traditional DRF functionality wit
 * Optional: ADRF (Asynchronous Django REST Framework) for extended async support
 
 ## License
-MIT License
+Apache 2.0 License
 
 django async, drf async, adrf, django 5 async views, async serializers, async caching, drf caching, asynchronous drf, adrf, django rest framework, python async api
